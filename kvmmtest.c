@@ -4,10 +4,14 @@
  * This file is an example that showcases the use of the KVM
  * interface in the Linux Kernel.
  *
+ * Based on kvmtest.c [https://lwn.net/Articles/658512/]
+ *
  * Copyright (c) 2020 Nubificus Ltd.
  *		Author: Anastassios Nanos <ananos@nubificus.co.uk>
+ * Copyright (c) 2015 Intel Corporation
+ * Author: Josh Triplett <josh@joshtriplett.org>
  *
- * KVMM is free software; you can redistribute it and/or modify
+ * KVMMTEST is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 2 of the License, or
  * (at your option) any later version.
